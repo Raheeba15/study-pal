@@ -4,6 +4,10 @@
 
 **Your all-in-one study companion
 
+## About
+
+Study Pal is a personal productivity web app designed to help students stay organized and focused. It brings together everything you need — notes, timetables, reminders, a planner, and group chat — all in one clean interface.
+
 ## 🌐 Live Demo
 
 Check it out here → [study-pal-re48.vercel.app](https://study-pal-re48.vercel.app/)
@@ -16,25 +20,20 @@ Check it out here → [study-pal-re48.vercel.app](https://study-pal-re48.vercel.
 <img width="1366" height="593" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/82e64544-e2e0-45c9-8891-2849611b13b9" />
 <img width="1366" height="604" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/1d7f52ec-59bd-427c-bb1b-2e29595342a8" />
 
+---
 
-## ✨ About
+## Features
 
-Study Pal is a personal productivity web app designed to help students stay organized and focused. It brings together everything you need — notes, timetables, reminders, a planner, and group chat — all in one clean interface.
+- **Notes** — Write, save, and organize your study notes
+- **Timetable** — Plan your weekly schedule at a glance
+- **Reminders** — Never miss a deadline or important task
+- **Planner** — Day-by-day planning to stay on track
+- **Group Chat** — Collaborate and study with peers in real time
+- **Auth** — Secure login and signup powered by Supabase
 
 ---
 
-## 🚀 Features
-
-- 📝 **Notes** — Write, save, and organize your study notes
-- 🗓️ **Timetable** — Plan your weekly schedule at a glance
-- ✅ **Reminders** — Never miss a deadline or important task
-- 📅 **Planner** — Day-by-day planning to stay on track
-- 💬 **Group Chat** — Collaborate and study with peers in real time
-- 🔐 **Auth** — Secure login and signup powered by Supabase
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -45,7 +44,7 @@ Study Pal is a personal productivity web app designed to help students stay orga
 
 ---
 
-## 🏃 Running Locally
+## Running Locally
 
 ```bash
 # Clone the repo
