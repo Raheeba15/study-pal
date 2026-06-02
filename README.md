@@ -52,45 +52,5 @@ Study Pal is a personal productivity web app designed to help students stay orga
 git clone https://github.com/Raheeba15/study-pal.git
 cd study-pal
 
-# Install dependencies
-npm install
 
-# Set up environment variables
-cp .env.example .env
-# Add your Supabase URL and anon key to .env
 
-# Start the dev server
-npm run dev
-```
-
-### Environment Variables
-
-Create a `.env` file in the root with:
-
-```env
-VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
----
-
-## 📁 Project Structure
-
-```
-study-pal/
-├── src/
-│   ├── screens/
-│   │   ├── Dashboard.jsx
-│   │   ├── Notes.jsx
-│   │   ├── Timetable.jsx
-│   │   ├── Planner.jsx
-│   │   ├── Reminders.jsx
-│   │   ├── Chat.jsx
-│   │   ├── Login.jsx
-│   │   └── Signup.jsx
-│   ├── App.jsx
-│   └── index.css
-├── __tests__/
-├── supabase/
-└── public/
-```
