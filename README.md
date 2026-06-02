@@ -10,14 +10,11 @@ Check it out here → [study-pal-re48.vercel.app](https://study-pal-re48.vercel.
 
 ---
 
-## 🖼️ Screenshots
-```
-<img width="1366" height="601" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/32639211-6cde-4a1a-acfb-dbe8b6bfefa6" />
-<img width="1366" height="599" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/8c57374c-a585-44a8-9651-bc3a67abda17" />
-<img width="1366" height="593" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/3e5bc312-6c96-4e53-bc73-5f3f61cd580e" />
-<img width="1366" height="604" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/af4c5f87-40da-4c60-bcc4-59bbdea1a948" />
-
-```
+## Screenshots
+<img width="1366" height="601" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/487a1d6f-ec66-474f-af12-d107f1f510ca" />
+<img width="1366" height="599" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/fd078114-8cf6-4a1b-acb3-1c1a99b01cff" />
+<img width="1366" height="593" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/82e64544-e2e0-45c9-8891-2849611b13b9" />
+<img width="1366" height="604" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/1d7f52ec-59bd-427c-bb1b-2e29595342a8" />
 
 
 ## ✨ About
