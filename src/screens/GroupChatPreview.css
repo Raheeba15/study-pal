@@ -1,0 +1,90 @@
+.chat-preview-container {
+  height: 100vh;
+  overflow-y: auto;
+  background: #e3f2fd;
+  padding: 1rem;
+  scroll-behavior: smooth;
+}
+
+.pull-message {
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #0072ff;
+  margin-bottom: 1rem;
+}
+
+.loading-spinner::after {
+  content: " ⏳";
+  animation: spin 1s linear infinite;
+  display: inline-block;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.chat-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.chat-card:hover {
+  transform: scale(1.02);
+}
+
+.chat-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #1a237e;
+}
+
+.chat-last {
+  font-size: 0.95rem;
+  color: #555;
+  margin-top: 0.3rem;
+}
+
+.chat-time {
+  font-size: 0.8rem;
+  color: #999;
+  text-align: right;
+  margin-top: 0.5rem;
+}
+
+.bottom-loader {
+  position: sticky;
+  bottom: 0;
+  background: #e3f2fd;
+  text-align: center;
+  padding: 1rem;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #0072ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  z-index: 10;
+}
+
+.spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid #0072ff;
+  border-top: 3px solid transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-top: 0.3rem;
+}
+
+@keyframes spin {   
+  to {
+    transform: rotate(360deg);
+  }
+}
